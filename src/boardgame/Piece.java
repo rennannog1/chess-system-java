@@ -13,7 +13,7 @@ public class Piece {
 		return board;
 	}
 
-	static boolean possibleMoves() {
+	/*static boolean possibleMoves() {
 		return;
 	}
 
@@ -23,5 +23,5 @@ public class Piece {
 
 	boolean isThereAnyPossibleMove() {
 		return;
-	}
+	}*/
 }
